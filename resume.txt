@@ -1,0 +1,77 @@
+Tejaswini (TJ) Kambhampati
+
+Cupertino, CA 95014
+
+kkambhampati@scu.edu, +1 (669)-293-9092, www.linkedin.com/in/tejaswini-kambhampati-b9140b149 , https://github.com/Tejaswini-popuri?tab=repositories 
+
+
+
+EDUCATION 
+
+Santa Clara University, Leavey School of Business						 		    Santa Clara, CA
+
+Master of Information Systems, Cumulative GPA: 3.7   			                   		   Graduation in June 2023                                                         
+
+Relevant Course Work: Big Data Modelling and Analytics, Database Management Systems Design and SQL, Data Analytics with Python, Information Systems Analysis and Design, Object Oriented Design and Programming using Java
+
+
+
+Jawaharlal Nehru Technological University 					                                 	        Andhra Pradesh, India
+
+Bachelors in Aeronautical Engineering	                     						     Graduated in May 2013
+
+Published and presented an article on “Computational Airflow on Hypersonic Air Engines” at the convention of The Institute of Engineers, India.
+
+TECHNICAL SKILLS
+
+Programming Languages:  Python, SQL, Java, C, Bash
+
+Tools: Snowflake, Teradata, SQL server, MySQL, Oracle DB, Tableau, Informatica PowerCenter, Jupyter Notebook, Amazon Athena
+
+Analytics and Data Science:  Data Mining & Analytics, Excel for Analytics, Machine learning, Supervised and Unsupervised learning, Time Series, Sentiment Analysis, Click Stream Analytics, Business Intelligence
+
+Technologies: ETL, Distributed File Systems, Apache Spark, NoSQL databases, MapReduce algorithms, Pandas, NumPy, Seaborn, Scikitlearn
+
+EXPERIENCE
+
+INFOSYS LTD 										              Bengaluru, Karnataka, India
+
+Senior Systems Engineer (Business Intelligence)						       November 2014-February 2017
+
+CVS Medicare: 
+
+Designed and developed complex mappings to move data from various source systems ranging from DB2, Flat Files to a common target area such as Data Marts using Informatica (9.x) applications.
+
+Pfizer R&D: 
+
+Provided tier 2 and 3 production support to Autosys batch processes and performed trouble shooting using Informatica power center logs, LINUX/UNIX scripts and DB processes, detecting data inaccuracies and ensuring corrections in system of records. I partnered with 3 cross functional teams to efficiently deploy software releases in both User Acceptance Testing and Production environments.
+
+Received ‘INSTA AWARD’ from Infosys for extended support in successful deployment of projects into production.
+
+PAYACTIV LTD										 	   San Jose, California, USA
+
+Project Reveal: Focused on end-to-end Customer journey and product analytics. Analyzed user activity including app navigation, feature usage & service adoption. Unlocking insights on user behavior to enhance Product Experience to cater to end customers.
+
+
+
+ACADEMIC PROJECTS
+
+Amazon Return Management System: code
+
+Designed and developed a database to manage order returns for an eCommerce Platform, following design principles, from constructing swim lane diagrams and ER diagrams to formulating views, triggers, stored procedures etc.
+
+YouTube Trending Videos Analysis (2020-21): code
+
+Led a team of 4 in performing extensive cleaning and analysis of dataset with creative visualizations (highlighting the findings through Time series plots spotting trends and demonstrating insights using Word Clouds). Trained an ML model using Decision tree regressor and predicted trending days of a video using linear regression model and another ML model (using Bag of words) to find the missing category of a video using Classification. 
+
+Bookworms Vending Library: code												
+
+Designed a 24/7 Library kiosk, by applying System design principles, which offers full circulation functionality of a library and reduces the budget by 10% (Latest CA library renovation & modernization budget: $438 million).
+
+
+
+ADDITIONAL INFORMATION
+
+Interests:  Singing (Indian Classical Music), Audiobooks and Podcasts, Running
+
+Volunteer Experience: Social Media Marketing coordinator at ASHA for education (NGO), focused on rural education in India.
